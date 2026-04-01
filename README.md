@@ -259,7 +259,10 @@ https://drive.google.com/drive/folders/107MgqGChupUKvf2Nix-Vb6ZsotF1g7GR?usp=sha
 
 **Daily Report Email (sent at 8 PM):**
 ```
+
 <img width="1061" height="458" alt="image" src="https://github.com/user-attachments/assets/845b65f9-baad-4157-8495-e3ce477cbd06" />
+
+
 
 Date:               2026-04-01
 Follows Sent:       17
