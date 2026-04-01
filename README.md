@@ -1,4 +1,4 @@
-# AI Agency Scraper + Engagement Bot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/198e7e10-f3da-4735-8e1b-69e9f34ed46b" /># AI Agency Scraper + Engagement Bot
 ### n8n Automation Assignment — Round 1
 
 ---
@@ -159,7 +159,7 @@ Click **Execute workflow** manually to run each one immediately, or activate the
 
 ---
 
-## 🧠 Lead Scoring System (Bonus Feature ⭐)
+## 🧠 Lead Scoring System
 
 Each scraped lead is automatically scored 1–10 before being saved:
 
@@ -217,11 +217,9 @@ ai-agency-automation-bot/
 │   └── Daily_Report.json
 │
 ├── sample_output/
-│   ├── daily_report_screenshot.png
-│   ├── lead_tracker_screenshot.png
-│   └── event_log_screenshot.png
+│   ├── SCREENSHOTS_OF_WORKFLOWS_AND_GOOGLE_SHEET.pdf
 │
-├── screen_recording.mp4
+├── screen_recording.mp4 (https://drive.google.com/drive/folders/107MgqGChupUKvf2Nix-Vb6ZsotF1g7GR?usp=sharing) //unable to upload the file due to size. therefore sharing the recording link here 
 └── README.md
 ```
 
