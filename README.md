@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/198e7e10-f3da-4735-8e1b-69e9f34ed46b" /># AI Agency Scraper + Engagement Bot
+
 ### n8n Automation Assignment — Round 1
 
 ---
@@ -251,15 +251,16 @@ https://drive.google.com/drive/folders/107MgqGChupUKvf2Nix-Vb6ZsotF1g7GR?usp=sha
 
 **Google Sheet — Lead Tracker:**
 ```
-username        | platform  | lead_score | dm_sent | dm_sent_date | dm_text (truncated)
-----------------|-----------|------------|---------|--------------|----------------------
-ecomemeka       | instagram | 8          | yes     | 2026-04-01   | Hi Ecomemeka, I came across...
-dindiaagency    | instagram | 7          | yes     | 2026-04-01   | Hey Dindia, love what you're...
-planred.pymes   | instagram | 6          | yes     | 2026-04-01   | Hi Planred, noticed your focus...
+<img width="1061" height="455" alt="image" src="https://github.com/user-attachments/assets/29df16b8-06c6-4c7a-b997-addbc541f966" />
+<img width="1061" height="462" alt="image" src="https://github.com/user-attachments/assets/90c0b9cf-cea1-4501-a33d-cf42b7610811" />
+<img width="1061" height="436" alt="image" src="https://github.com/user-attachments/assets/1dad9658-599c-4eb9-ba59-012c2e3215fe" />
+
 ```
 
 **Daily Report Email (sent at 8 PM):**
 ```
+<img width="1061" height="458" alt="image" src="https://github.com/user-attachments/assets/845b65f9-baad-4157-8495-e3ce477cbd06" />
+
 Date:               2026-04-01
 Follows Sent:       17
 DMs Sent:           37
@@ -269,6 +270,8 @@ Conversion Rate:    0%
 
 **Event Log:**
 ```
+<img width="1061" height="458" alt="image" src="https://github.com/user-attachments/assets/77a3a223-2c19-40d2-9cfd-80e33d10b952" />
+
 event_date  | username     | event_type   | event_description
 ------------|--------------|--------------|------------------------------------------
 2026-04-01  | ecomemeka    | new_follower | ecomemeka is now followed — ready for first DM
