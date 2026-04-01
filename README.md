@@ -237,10 +237,6 @@ With more time and a paid budget, the most impactful improvements would be:
 
 **Reply detection** — Currently `reply_received` is updated manually. With Instagram's Messaging API (requires app review), incoming DM replies could automatically update the sheet and halt follow-up sequences for that lead — closing the full automation loop.
 
-**Lead enrichment** — Adding a Clearbit or Apollo.io lookup step after scraping would enrich leads with company size, revenue, and verified email — dramatically improving DM personalisation and conversion rates beyond bio-only context.
-
-*(199 words)*
-
 ---
 
 ## Demo Screen recording link : 
