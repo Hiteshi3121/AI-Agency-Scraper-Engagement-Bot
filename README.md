@@ -7,6 +7,8 @@
 
 A fully automated Instagram prospecting and outreach pipeline built entirely in n8n. The system scrapes AI-agency-relevant leads from Instagram, scores them, sends personalised AI-generated DMs via Groq, handles multi-step follow-ups, detects trigger events, and delivers daily performance reports — all without manual intervention.
 
+screen recording - https://drive.google.com/drive/folders/107MgqGChupUKvf2Nix-Vb6ZsotF1g7GR?usp=sharing
+<img width="1061" height="455" alt="image" src="https://github.com/user-attachments/assets/29df16b8-06c6-4c7a-b997-addbc541f966" />
 ---
 
 ## 🏗️ Workflows (5 total)
